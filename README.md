@@ -34,6 +34,6 @@ Join us in creating a new DEFI protocol only on 🟣Telos. Our mission is to cre
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-![Sanket's github stats](https://github-readme-stats.vercel.app/api?username=blockchainGuru125&show_icons=true&theme=radical)
+![Sanket's github stats](https://github-readme-stats.vercel.app/api?username=dummyfinance&show_icons=true&theme=radical)
 
 ⭐️ From [dummyfinance](https://github.com/dummyfinance)
