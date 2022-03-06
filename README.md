@@ -36,7 +36,4 @@ Join us in creating a new DEFI protocol only on 🟣Telos. Our mission is to cre
 
 ![Sanket's github stats](https://github-readme-stats.vercel.app/api?username=blockchainGuru125&show_icons=true&theme=radical)
 
-[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Naereen&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
-
-
 ⭐️ From [dummyfinance](https://github.com/dummyfinance)
